@@ -1,18 +1,21 @@
-# userSystem
-Funkcionalnosti
-Unos novog korisnika (ime i email).
-Prikazivanje unetih korisnika ispod forme za unos.
-Instalacija
-Klonirajte repozitorijum:
+userSystem
+Features
+Add a new user (name and email).
+Display entered users below the input form.
+Installation
+Clone the repository:
+
 bash
-Copy code
-git clone https://github.com/vas-nalog/user-management.git
-Otvorite index.html u vašem web pregledaču.
-Korišćene tehnologije
+Copy
+Edit
+git clone https://github.com/your-account/user-management.git
+Open index.html in your web browser.
+
+Technologies Used
 HTML
 CSS
 JavaScript
-Kako koristiti
-Popunite formu sa imenom i email adresom novog korisnika.
-Kliknite na dugme "Add User" da biste dodali korisnika.
-Pogledajte unete korisnike ispod forme.
+How to Use
+Fill out the form with the name and email address of a new user.
+Click the "Add User" button to add the user.
+View the entered users below the form.
